@@ -4,9 +4,9 @@
 |Contents                                      |DONE By                |
 |:---------------------------------------------|:----------------------|
 |1Remote_Keyless_Entry CODE in 3_Implementation|Arunraj and Keerthana  |
-|1Remote_Keyless_Entry Git Repo                |Nirmala and  Aki vishnu|
+|1Remote_Keyless_Entry Git Documentation       |Nirmala and  Aki vishnu|
 |2BiCom_System ONLY CODE in 3_Implementation   |Aki vishnu and Nirmala |
-|2BiCom_System Git Repo                        |Keerthana and Arunraj  |
+|2BiCom_System Git Documentation               |Keerthana and Arunraj  |
 
 # FOLDER STRUCTURE
 |FOLDER             |DESCRIPTION                                                                        |
