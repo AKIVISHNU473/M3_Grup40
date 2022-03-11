@@ -2,6 +2,11 @@
 
 # Description 
 RKE (remote keyless entry) is an electronic access control system that may be operated from a distance. RKEs, which are commonly used to remotely lock or unlock doors, need the end user to perform an action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock. The action is usually performed by pressing a button on a physical fob. The RKE systems for cars can also be used to control the vehicle's ignition system, security alarm, horn, and lights, in addition to locking and unlocking the doors. RKEs can also be used to control access to specific areas of a building, such as garages. While RKE is not commonly used in buildings other than enterprises, it is used in some home automation and security systems.
+# SOFTWARE REQUIREMENTS
+    1 Cygwin : Cygwin is a POSIX-Compatible programming and runtime environment that runs natively on Microsoft Windows.
+               Under Cygwin, source code designed for Unix-like operating systems may be compiled with minimal modification and executed.
+    2 STM32CUBEIDE : The STM32 is a family of microcontroller ICs based on the 32-bit RISC ARM Cortex-M33F, Cortex-M7F, Cortex-M4F, Cortex-M3, Cortex-M0+, and Cortex-M0 cores.
+                     
 
 # Requirements 
 ## High Level Requirement
