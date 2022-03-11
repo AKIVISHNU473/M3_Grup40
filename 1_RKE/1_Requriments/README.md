@@ -53,24 +53,6 @@ RKE systems for cars can also be used to control the vehicle's ignition system.
 ## How
 The action is usually performed by pressing a button on a physical fob.
 
-# Block Diagrams 
-## Structural Diagram 
-
-![Screenshot (213)](https://user-images.githubusercontent.com/98865009/157795863-a1a36bb1-7ffc-4adb-92e0-691b0b2f5533.png)
-
-
-## Behavioral Diagram
-
-![Screenshot (217)](https://user-images.githubusercontent.com/98865009/157803936-650de818-f6e3-490b-af48-d713a87c073c.png)
-
-# TestPlanAndOutput
-
-|NO|TEST ID  |TEST CASE OBJECTIVE                       |    INPUT DATA                        |EXPECTED OUTPUT            |ACTUAL OUTPUT              |STATUS|
-|:-|:--------|:-----------------------------------------|:-------------------------------------|:--------------------------|:--------------------------|:-----|
-|1-|TC-1     |For Car lock Function                     |User needs to press the button 1 time |car is locked              |car is locked              |PASS  |
-|2-|TC-2     |For Car unlock Function                   |User needs to press the button 2 times|car is unlocked            |car is unlocked            |PASS  |
-|3-|TC-3     |For alarm activation/deactivation Function|User needs to press the button 3 times|alarm activated/deactivated|alarm activated/deactivated|PASS  |
-|4-|TC-4     |For approach light Function               |User needs to press the button 4 times|approach light ON          |approach light ON          |PASS  |
 
 
 
