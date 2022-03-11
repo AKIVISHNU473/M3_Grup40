@@ -11,3 +11,4 @@
 
 # Behavior Diagram
 
+![Screenshot (226)](https://user-images.githubusercontent.com/98865009/157856085-8db34286-2ec2-4a34-b0de-4cc6481b7fe3.png)
