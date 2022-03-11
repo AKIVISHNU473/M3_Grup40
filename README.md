@@ -3,10 +3,12 @@
 # project 2:BiCom_System
 |Contents                                      |DONE By                |
 |:---------------------------------------------|:----------------------|
-|1Remote_Keyless_Entry CODE in 3_Implementation|Arunraj and Keerthana  |
-|1Remote_Keyless_Entry Git Documentation       |Nirmala and  Aki vishnu|
-|2BiCom_System ONLY CODE in 3_Implementation   |Aki vishnu and Nirmala |
-|2BiCom_System Git Documentation               |Keerthana and Arunraj  |
+|1Remote_Keyless_Entry CODE in 3_Implementation| vishnu and Nirmala  |
+|1Remote_Keyless_Entry Git Documentation       |Keerthana and Arunraj|
+|2BiCom_System Git Documentation               |  vishnu and Nirmala |
+|2BiCom_System ONLY CODE in 3_Implementation   |Keerthana and Arunraj |
+
+
 
 # FOLDER STRUCTURE
 |FOLDER             |DESCRIPTION                                                                        |
