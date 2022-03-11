@@ -1,12 +1,12 @@
 # M3_Grup40
 # project 1: Remote_Keyless_Entry
 # project 2:BiCom_System
-|Contents                                      |DONE By|
-|:---------------------------------------------|:------|
-|1Remote_Keyless_Entry CODE in 3_Implementation|A	     |
-|1Remote_Keyless_Entry Git Repo                |B      |
-|2BiCom_System ONLY CODE in 3_Implementation   |C      |
-|2BiCom_System Git Repo                        |D      |
+|Contents                                      |DONE By                |
+|:---------------------------------------------|:----------------------|
+|1Remote_Keyless_Entry CODE in 3_Implementation|Arunraj and Keerthana  |
+|1Remote_Keyless_Entry Git Repo                |Nirmala and  Aki vishnu|
+|2BiCom_System ONLY CODE in 3_Implementation   |Aki vishnu and Nirmala |
+|2BiCom_System Git Repo                        |Keerthana and Arunraj  |
 
 # FOLDER STRUCTURE
 |FOLDER             |DESCRIPTION                                                                        |
