@@ -54,3 +54,15 @@ Bicom systems for cars can operate in any where with the requirements.
 
 ## How
 The action is usually performed by pressing a button on a physical fob.
+
+# ADVANTAGES:
+* We can have other applications of the car.
+* It adds extra security for the car.
+* We can have better access control
+* Easy for the usage and it also saves some time compared to the normal one.
+    
+# DISADVANTAGES:
+* There can be possibility of hackers to manpiulate.
+* potential risk comes from the fact that your car’s engine won’t automatically switch off when you are out of range.
+* As the technology increases it supports more Vulnerablility.
+
