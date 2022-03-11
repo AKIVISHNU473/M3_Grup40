@@ -8,6 +8,8 @@
 |HLR4|The application shall display Door status            |
 
 
+
+
 ## Low Level Requirements
 |ID  |DESCRIPTION	STATUS                                                               |
 |:---|:--------------------------------------------------------------------------------|
