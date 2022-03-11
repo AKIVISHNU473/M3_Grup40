@@ -1,7 +1,15 @@
- # INTRODUCTION:
-      This is the extension of the RKE ,as it is operated in single directional
-      This Bicom system is operated in bi directional way.
-      This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
+ # Description 
+
+This is the extension of the Remote Keyless Entry,as it is operated in single directional This Bicom system is operated in bi directional way. This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
+
+# 5W's & 1H
+
+![](https://github.com/KeerthuMG/M3_Group40/blob/main/2_BiCom%20System/6_ImagesAndVideos/2SW.jpg)
+
+# Swot Analysis 
+
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
+
 
 # Requirements
 ## High Level Requirements
@@ -24,37 +32,7 @@
 |LLR4|For displaying Door status, user need to press the button four time              |
 
 
-# SWOT Analysis
-## Strengths
-* low power consumption
-
-* Better Security
-
-* Better accesss control
-
-* Ease and convenience
-
-## Weakness
-* The cost of this technology is high
-
-* Thieves can hack the program
-
-# 4W'S & 1H
-## WHO
-The Bicom system is an electronic access control system that can be operated from user.
-
-## WHAT
-The Bicom system which are commonly used to displaying window status, alarm status, car battery info status, Door status.
-
-## WHEN
-end user needs to perform an action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock.
-
-## Where
-Bicom systems for cars can operate in any where with the requirements.
-
-## How
-The action is usually performed by pressing a button on a physical fob.
-
+\
 
 # Block Diagrams
 # Structural 
