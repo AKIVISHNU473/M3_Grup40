@@ -86,3 +86,15 @@ The action is usually performed by pressing a button on a physical fob.
 |2 |TC-2     |For displaying the alarm status  of car|user needs to press the button Two time  |All led off at the same time, its shows the alarm status           |All led off at the same time, its shows the alarm status   |PASS   |
 |3 |TC-3     |For displaying the car battery info    |user needs to press the button three time|All led on in clockwise, it shows the car battery info             |All led on in clockwise, it shows the car battery info     |PASS   |
 |4 |TC-4     |For displaying the Door status of car  |user needs to press the button four time |All led on in anti-clockwise , its shows the Door status of car|All led on in anti-clockwise , its shows the Door status of car|PASS   |
+
+# ADVANTAGES:
+* We can have much more information about our car .
+* It adds extra security for the car.
+* We can have better access control
+* Easy for the usage and it also saves some time compared to the normal one.
+    
+# DISADVANTAGES:
+* There can be possibility of hackers to manpiulate.
+* potential risk comes from the fact that your car’s engine won’t automatically switch off when you are out of range.
+* As the technology increases it supports more Vulnerablility.
+
