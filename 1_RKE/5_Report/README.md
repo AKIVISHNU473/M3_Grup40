@@ -81,4 +81,14 @@ The action is usually performed by pressing a button on a physical fob.
 |3-|TC-3     |For alarm activation/deactivation Function|User needs to press the button 3 times|alarm activated/deactivated|alarm activated/deactivated|PASS  |
 |4-|TC-4     |For approach light Function               |User needs to press the button 4 times|approach light ON          |approach light ON          |PASS  |
 
+# ADVANTAGES:
+* It adds extra security for the car.
+* We can have better access control(its handey)
+* Easy for the usage and it also saves some time compared to the normal one.
+    
+# DISADVANTAGES:
+* There can be possibility of hackers to manpiulate.
+* potential risk comes from the fact that your car’s engine won’t automatically switch off when you are out of range.
+* As the technology increases it supports more Vulnerablility.
+
 
