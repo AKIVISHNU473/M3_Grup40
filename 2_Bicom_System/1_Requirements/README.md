@@ -7,8 +7,12 @@ This is the extension of the RKE ,as it is operated in single directional This B
 
 ## 5W's & 1H
 
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/5W(2).jpg)
+
 
 ## SWOT Analysis
+
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
 
 ## High Level Requirements
 |ID  |DESCRIPTION	STATUS                                   |
