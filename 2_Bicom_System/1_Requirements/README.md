@@ -1,7 +1,7 @@
  # INTRODUCTION:
-      This is the extension of the RKE ,as it is operated in single directional
-      This Bicom system is operated in bi directional way.
-      This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
+ This is the extension of the RKE ,as it is operated in single directional
+ This Bicom system is operated in bi directional way.
+ This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
 
 # Requirements
 ## High Level Requirements
