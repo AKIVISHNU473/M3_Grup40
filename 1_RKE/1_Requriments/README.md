@@ -39,7 +39,7 @@ RKE (remote keyless entry) is an electronic access control system that may be op
 
 # 4W'S & 1H
 ## WHO 
-The RKE (remote keyless entry) is an electronic access control system that can be operated from a distance.
+The RKE (remote keyless entry) is an electronic access control system that can be operated from user.
 
 ## WHAT 
 RKE (Remote Keyless Entry) which are commonly used to remotely lock or unlock doors.
