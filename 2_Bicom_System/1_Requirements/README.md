@@ -1,9 +1,15 @@
- # INTRODUCTION:
- This is the extension of the RKE ,as it is operated in single directional
- This Bicom system is operated in bi directional way.
- This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
+# Biocom System
+ 
+## Description
 
-# Requirements
+This is the extension of the RKE ,as it is operated in single directional This Bicom system is operated in bi directional way.This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
+
+
+## 5W's & 1H
+
+
+## SWOT Analysis
+
 ## High Level Requirements
 |ID  |DESCRIPTION	STATUS                                   |
 |:---|:----------------------------------------------------|
@@ -24,44 +30,17 @@
 |LLR4|For displaying Door status, user need to press the button four time              |
 
 
-# SWOT Analysis
-## Strengths
-* low power consumption
 
-* Better Security
 
-* Better accesss control
+## Advantages
 
-* Ease and convenience
-
-## Weakness
-* The cost of this technology is high
-
-* Thieves can hack the program
-
-# 4W'S & 1H
-## WHO
-The Bicom system is an electronic access control system that can be operated from user.
-
-## WHAT
-The Bicom system which are commonly used to displaying window status, alarm status, car battery info status, Door status.
-
-## WHEN
-end user needs to perform an action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock.
-
-## Where
-Bicom systems for cars can operate in any where with the requirements.
-
-## How
-The action is usually performed by pressing a button on a physical fob.
-
-# ADVANTAGES:
 * We can have other applications of the car.
 * It adds extra security for the car.
 * We can have better access control
 * Easy for the usage and it also saves some time compared to the normal one.
     
-# DISADVANTAGES:
+## Disadvantages
+
 * There can be possibility of hackers to manpiulate.
 * potential risk comes from the fact that your car’s engine won’t automatically switch off when you are out of range.
 * As the technology increases it supports more Vulnerablility.
