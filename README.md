@@ -25,7 +25,7 @@
 | CONTENTS | DONE BY |
 |----------|---------|
 | Requirement | Keerthana M G and Nirmala Vijapur |
-| Architecture | Keerthana M G and Nirmala Vijapur |
+| Architecture | Nirmala Vijapur and Arunraj |
 | Implementation | Vishnu A and Keerthana M G |
 
 
