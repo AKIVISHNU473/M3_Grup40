@@ -21,12 +21,12 @@
 | Implementation | Vishnu A and Keerthana M G |
 
 
-# CONTRIBUTIONS FOR PROJECT 1 (Remote Keyless Entry)
+# CONTRIBUTIONS FOR PROJECT 2 (Remote Keyless Entry)
 | CONTENTS | DONE BY |
 |----------|---------|
-| Requirement | Keerthana M G and Nirmala Vijapur |
-| Architecture | Nirmala Vijapur and Arunraj |
-| Implementation | Vishnu A and Keerthana M G |
+| Requirement | Arunraj and Nirmala Vijapur |
+| Architecture | Keerthana M G Vishnu A|
+| Implementation | Nirmala Vijapur Arunraj |
 
 
 # BADGES
