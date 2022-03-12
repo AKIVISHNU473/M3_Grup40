@@ -14,7 +14,7 @@
 
 |Test ID|	Description                 |Input	                         |Exp output                                                   |Actual Output                        |Status|
 |:------|:----------------------------|:-------------------------------|:------------------------------------------------------------|:------------------------------------|:-----|
-|LLR_1	|Car Lock                     |If	Button is pressed one time   |All LEDs will be ON and Print Lock                           |All LEDs will be ON and Print Lock   |	Pass|
-|LLR_2  |Car unlock                   |If	Button is pressed two times  |All LEDs OFF and Print Unlock                                |All LEDs OFF and Print Unlock        |	Pass|
-|LLR_3	|Alarm activation/deactivation|If Button is pressed three times|All LEDs ON Clockwise and print Alarm activation/deactivation|All LEDs ON Clockwise and print Alarm activation/deactivation	              |Pass|
-|LLR_4  |Approach light               |If Button is pressed four times|	All LEDs ON in Anticlockwise and Print Approach Light         |All LEDs ON Anticlockwise and Print Approach Light   |Pass                         |
+|LLR1	|Car lock  | 1 user button press |All LEDs will be ON  |All LEDs ON  |	PASS|
+|LLR2  |Car unlock                   | 2 user button press  |All LEDs OFF|All LEDs OFF | PASS |
+|LLR3	|Alarm activation/deactivation| 3 user button press|All LEDs ON Clockwise direction |All LEDs ON Clockwise direction |PASS|
+|LLR4  |Approach light| 4 user button press|	All LEDs ON in Anticlockwise direction |All LEDs ON Anticlockwise direction | PASS |                     
