@@ -25,13 +25,13 @@ void unlocking_door(void);
 void detect_alarm(void);
 void detect_light(void);
 void encription(void);
+void encription_1(void);
 void encription_2(void);
 void encription_3(void);
-void encription_4(void);
 
 void delay(void)
 {
-	for(uint32_t i=0; i<30000000; i++);
+	for(uint32_t i=0; i<30000000; i++);                             //delay function added
 }
 
 int main(void)
@@ -41,7 +41,7 @@ int main(void)
 	
 
 	 GpioLed.pGPIOx = GPIOD;
-	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_15;		//Blue Led
+	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_15;		
 	GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
 	GpioLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
 	GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -49,7 +49,7 @@ int main(void)
 	GPIO_Init(&GpioLed);
 
 	GpioLed.pGPIOx = GPIOD;
-	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_14;		//Red Led
+	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_14;		 //added led's
 	GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
 	GpioLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
 	GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -58,7 +58,7 @@ int main(void)
 
 
 	GpioLed.pGPIOx = GPIOD;
-	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_12 ;	//Green Led
+	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_12 ;	
 	GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
 	GpioLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
 	GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -66,7 +66,7 @@ int main(void)
 	GPIO_Init(&GpioLed);
 
  	GpioLed.pGPIOx = GPIOD;
-	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_13;		//Orange Led
+	GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_13;		
 	GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
 	GpioLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
 	GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -89,11 +89,11 @@ int main(void)
 	{
 		encription();	
 
+		encription_1();				// encription functions.
+		
 		encription_2();				
 		
 		encription_3();				
-		
-		encription_4();				
 		
 	}
 
@@ -104,7 +104,7 @@ int main(void)
 void locking_door(void)
 {
 	delay();
-	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
+	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);                              //function for locking door
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_13);
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_14);
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_15);
@@ -114,7 +114,7 @@ void unlocking_door(void)
 {
 	delay();
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);
-	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, 0);
+	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, 0);               //function for  unlocking door
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_14, 0);
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, 0);
 }
@@ -130,7 +130,7 @@ void detect_alarm(void)
 	delay();
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_15);
 	delay();
-	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);
+	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);                       //function for  detect alarm
 	delay();
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, 0);
 	delay();
@@ -148,7 +148,7 @@ void detect_light(void)
 	delay();
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_14);
 	delay();
-	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_13);
+	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_13);                                 // detecting light
 	delay();
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);
 	delay();
@@ -172,7 +172,7 @@ void encription(void)
 }
 			
 
-void encription_2(void)
+void encription_1(void)
 {
 	uint32_t i=0, count = 1;
 	for(i=0;i<2;i++)
@@ -190,7 +190,7 @@ void encription_2(void)
 		}
 }
 
-void encription_3(void)
+void encription_2(void)
 {
 	uint32_t i=0, count = 1;
 	for(i=0;i<3;i++)
@@ -208,7 +208,7 @@ void encription_3(void)
 		}
 }
 
-void encription_4(void)
+void encription_3(void)
 {
 	uint32_t i=0, count = 1;
 	for(i=0;i<4;i++)
@@ -225,6 +225,8 @@ void encription_4(void)
 			
 		}
 } 
+
+
 
 
 
