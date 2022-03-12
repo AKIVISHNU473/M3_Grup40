@@ -88,11 +88,8 @@ int main(void)
 	while(1)
 	{
 		encription();	
-
 		encription_1();				// encription functions.
-		
 		encription_2();				
-		
 		encription_3();				
 		
 	}
@@ -184,8 +181,7 @@ void encription_1(void)
 	}
 	if(count==2)
 		{
-			
-			unlocking_door();
+		   unlocking_door();
 			
 		}
 }
@@ -202,8 +198,7 @@ void encription_2(void)
 	}
 	if(count==3)
 		{
-			
-			detect_alarm();
+		detect_alarm();
 			
 		}
 }
@@ -220,8 +215,7 @@ void encription_3(void)
 	}
 	if(count==4)
 		{
-			
-			detect_light();
+		detect_light();
 			
 		}
 } 
