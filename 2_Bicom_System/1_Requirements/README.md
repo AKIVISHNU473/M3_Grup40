@@ -5,14 +5,6 @@
 This is the extension of the RKE ,as it is operated in single directional This Bicom system is operated in bi directional way.This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
 
 
-## 5W's & 1H
-
-![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/5W(2).jpg)
-
-
-## SWOT Analysis
-
-![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
 
 ## High Level Requirements
 |ID  |DESCRIPTION	STATUS                                   |
@@ -33,6 +25,15 @@ This is the extension of the RKE ,as it is operated in single directional This B
 |LLR3|For displaying car battery info status, user need to press the button three time |
 |LLR4|For displaying Door status, user need to press the button four time              |
 
+
+## 5W's & 1H
+
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/5W(2).jpg)
+
+
+## SWOT Analysis
+
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
 
 
 
