@@ -21,7 +21,7 @@
 #define BTN_PRESSED ENABLE
 
 void locking_door(void);
-void unlocking_door(void);
+void unlocking_door(void);                                         // Adding the requried functions
 void detect_alarm(void);
 void detect_light(void);
 void encription(void);
