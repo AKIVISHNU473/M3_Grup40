@@ -25,10 +25,10 @@ RKE (remote keyless entry) is an electronic access control system that may be op
 
 |ID  |DESCRIPTION                          | Status|
 |:---|:------------------------------------|-------|
-|HLR1|System shall be provided with wireless lock system | Implemented |
-|HLR2|System shall be provided with wireless unlock system | Implemented |
-|HLR3|System shall be provided with wireless alarm activation and deactivation system | Implemented |
-|HLR4|System shall be provided with light approach | Implemented |
+|HLR1|System shall be provided with wireless lock system | 
+|HLR2|System shall be provided with wireless unlock system | 
+|HLR3|System shall be provided with wireless alarm activation and deactivation system |
+|HLR4|System shall be provided with light approach |
 
 
 ## Low  Level requirements 
