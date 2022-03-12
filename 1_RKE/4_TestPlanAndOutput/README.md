@@ -4,10 +4,10 @@
 
 |NO|TEST ID  |TEST CASE OBJECTIVE                       |    INPUT DATA                        |EXPECTED OUTPUT            |ACTUAL OUTPUT              |STATUS|
 |:-|:--------|:-----------------------------------------|:-------------------------------------|:--------------------------|:--------------------------|:-----|
-|1-|TC-1     |For Car lock Function                     |User needs to press the button 1 time |car is locked              |car is locked              |PASS  |
-|2-|TC-2     |For Car unlock Function                   |User needs to press the button 2 times|car is unlocked            |car is unlocked            |PASS  |
-|3-|TC-3     |For alarm activation/deactivation Function|User needs to press the button 3 times|alarm activated/deactivated|alarm activated/deactivated|PASS  |
-|4-|TC-4     |For approach light Function               |User needs to press the button 4 times|approach light ON          |approach light ON          |PASS  |
+|1-|TC-1     |For Car lock Function                     |User shall press the button once |Car locked            |Car locked              |PASS  |
+|2-|TC-2     |For Car unlock Function                   |User shall press the button twice | Car unlocked          |Car unlocked          |PASS  |
+|3-|TC-3     |For alarm activation/deactivation Function|User shall press the button thrice|Alarm activated/deactivated|Alarm activated/deactivated|PASS  |
+|4-|TC-4     |For approach light Function               |User shall press the button four times|Light approach ON      |Light approach ON       |PASS  |
 
 
 ## Low Level test plan :
