@@ -9,21 +9,21 @@ This is the extension of the RKE ,as it is operated in single directional This B
 ## High Level Requirements
 |ID  |DESCRIPTION	STATUS                                   |
 |:---|:----------------------------------------------------|
-|HLR1|The application shall display Window status          |
-|HLR2|The application shall display alarm status           |
-|HLR3|The application shall display car battery info status|
-|HLR4|The application shall display Door status            |
+|HLR1|It shall print the Window Status|
+|HLR2|It shall print Alarm Status |
+|HLR3|It shall print Car Battery information |
+|HLR4|It shall print Door Status |
 
 
 
 
-## Low Level Requirements
+## Low Level Requirement
 |ID  |DESCRIPTION	STATUS                                                               |
 |:---|:--------------------------------------------------------------------------------|
-|LLR1|For displaying window status, user need to press the button one time             |
-|LLR2|For displaying alarm status , user need to press the button two time             |
-|LLR3|For displaying car battery info status, user need to press the button three time |
-|LLR4|For displaying Door status, user need to press the button four time              |
+|LLR1|User shall press the button once |
+|LLR2|User shall press the button twice |
+|LLR3|Uer shall press the button thrice |
+|LLR4|User shall press the button four times |
 
 
 ## 5W's & 1H
