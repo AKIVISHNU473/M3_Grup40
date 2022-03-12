@@ -2,13 +2,7 @@
 
 This is the extension of the Remote Keyless Entry,as it is operated in single directional This Bicom system is operated in bi directional way. This project gives the information of the qualities of the car like Window status and Alarm status,car battery info.
 
-# 5W's & 1H
 
-![](https://github.com/KeerthuMG/M3_Group40/blob/main/2_BiCom%20System/6_ImagesAndVideos/2SW.jpg)
-
-# Swot Analysis 
-
-![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
 
 
 # Requirements
@@ -32,7 +26,14 @@ This is the extension of the Remote Keyless Entry,as it is operated in single di
 |LLR4|For displaying Door status, user need to press the button four time              |
 
 
-\
+# 5W's & 1H
+
+![](https://github.com/KeerthuMG/M3_Group40/blob/main/2_BiCom%20System/6_ImagesAndVideos/2SW.jpg)
+
+# Swot Analysis 
+
+![](https://github.com/AKIVISHNU473/M3_Grup40/blob/main/2_Bicom_System/6_ImagesAndVideos/1SW.jpg)
+
 
 # Block Diagrams
 # Structural 
