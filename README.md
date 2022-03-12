@@ -21,7 +21,7 @@
 | Implementation | Vishnu A and Keerthana M G |
 
 
-# CONTRIBUTIONS FOR PROJECT 2 (Remote Keyless Entry)
+# CONTRIBUTIONS FOR PROJECT 2 (BiCom System)
 | CONTENTS | DONE BY |
 |----------|---------|
 | Requirement | Arunraj and Nirmala Vijapur |
